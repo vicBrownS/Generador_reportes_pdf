@@ -79,20 +79,3 @@ El archivo final se guarda como `output/reporte_final.pdf`.
 Este proyecto se distribuye bajo la licencia **MIT**, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente.  
 
 📌 **Contribuciones y mejoras son bienvenidas**. ¡Siéntete libre de hacer un fork y mejorar el proyecto! 🚀  
-
----
-
-### 🎯 **Listo para subirlo a GitHub**
-1. Asegúrate de que el **repositorio está creado** en GitHub.  
-2. **Agrega y sube los archivos** con:
-```bash
-git init
-git add .
-git commit -m "Versión inicial del generador de reportes"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-git push -u origin main
-```
-3. 🎉 ¡Listo! Ya tienes tu proyecto en GitHub con una documentación clara.  
-
-Si necesitas personalizar más el `README.md`, dime y te ayudo a adaptarlo. 🚀😃
