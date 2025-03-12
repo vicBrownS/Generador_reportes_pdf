@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** bien estructurado para tu repositorio en **GitHub**. Explica qué hace el proyecto, cómo usarlo y qué librerías necesita. 🚀  
-
----
-
 # **📊 Generador de Reportes en PDF a partir de Datos Financieros**  
 
 ### **📌 Descripción**
